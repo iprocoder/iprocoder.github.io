@@ -24,7 +24,8 @@ LRU Cache 的主要接口有 构造函数 `LRUCache` 用于初始化一个容量
 ## 代码实现
 
 完整的 Java 实现代码如下：
-```
+
+```java
 import java.util.*;
 
 /**
